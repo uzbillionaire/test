@@ -12,7 +12,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/uzbillionaire/p39-first-project.git
+git remote add origin https://github.com/uzbillionaire/test.git
 git push -u origin main
 
 git config --global user.name "uzbillionaire"
