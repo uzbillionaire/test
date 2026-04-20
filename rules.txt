@@ -1,0 +1,21 @@
+======================== GITHUB ========================
+
+    1. By projectlarni saqlab turadigan joy
+    2. Jamoa bolib ishlashni osonlashtiradigan platforma
+    3. Bu projectdagi xatolarni kamaytiradigan jarayon
+
+
+git -> service (git commands toplarmi)
+GitHub -> joy (web platforma)
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/uzbillionaire/p39-first-project.git
+git push -u origin main
+
+git config --global user.name "uzbillionaire"
+git config --global user.email "ashurboyevsanjarbek@email.com"
+
+git ignore -> malum bir fayllarni githubga yuklamaslik uchun kerak
